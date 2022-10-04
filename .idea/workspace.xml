@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Téglalap osztály &#10;-sokszög osztály létrehozás,&#10;- a oldal&#10;- teglalap osztaly öröklés,&#10;- b oldal&#10;- konstruktorok&#10;- kerulet terulet,&#10;-toString">
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása">
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664886121035</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása">
+      <created>1664887093503</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664887093503</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +76,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Téglalap osztály &#10;-sokszög osztály létrehozás,&#10;- a oldal&#10;- teglalap osztaly öröklés,&#10;- b oldal&#10;- konstruktorok&#10;- kerulet terulet,&#10;-toString" />
-    <option name="LAST_COMMIT_MESSAGE" value="Téglalap osztály &#10;-sokszög osztály létrehozás,&#10;- a oldal&#10;- teglalap osztaly öröklés,&#10;- b oldal&#10;- konstruktorok&#10;- kerulet terulet,&#10;-toString" />
+    <MESSAGE value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e metodusok letrehozása" />
+    <MESSAGE value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása" />
+    <option name="LAST_COMMIT_MESSAGE" value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása" />
   </component>
 </project>
