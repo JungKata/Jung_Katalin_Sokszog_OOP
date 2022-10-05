@@ -9,6 +9,10 @@ public abstract class Sokszog {
         this.a = a;
     }
 
+    public Sokszog() {
+
+    }
+
     public double getA() {
         return a;
     }

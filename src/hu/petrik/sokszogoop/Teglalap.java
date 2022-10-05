@@ -8,6 +8,10 @@ public class Teglalap extends Sokszog {
         this.b = b;
     }
 
+    public Teglalap() {
+        super();
+    }
+
     public double getB() {
         return b;
     }

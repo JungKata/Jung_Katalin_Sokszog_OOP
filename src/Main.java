@@ -1,5 +1,6 @@
 import hu.petrik.sokszogoop.Haromszog;
 import hu.petrik.sokszogoop.Paralelogramma;
+import hu.petrik.sokszogoop.Sokszogek;
 import hu.petrik.sokszogoop.Teglalap;
 
 public class Main {
@@ -17,6 +18,12 @@ public class Main {
             Paralelogramma p = new Paralelogramma();
             System.out.println(p);
         }
+
+        for (int i = 0; i < 5; i++) {
+            Sokszogek sok = new Sokszogek();
+            System.out.println(sok);
+        }
+
 
     }
 }
