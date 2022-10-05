@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Háromszög osztály:&#10;ToString&#10;véletlen oldalak">
+    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" afterDir="false" />
     </list>
@@ -32,12 +32,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664891028931</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet">
+      <created>1664993515988</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664993515988</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +102,8 @@
     <MESSAGE value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása" />
     <MESSAGE value="Háromszög osztály:&#10;ToString" />
     <MESSAGE value="Háromszög osztály:&#10;ToString&#10;véletlen oldalak" />
-    <option name="LAST_COMMIT_MESSAGE" value="Háromszög osztály:&#10;ToString&#10;véletlen oldalak" />
+    <MESSAGE value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet" />
+    <MESSAGE value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás" />
   </component>
 </project>

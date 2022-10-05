@@ -27,13 +27,22 @@ public class Paralelogramma extends Sokszog {
         this.alpha = alpha;
     }
 
+    private double getRadian(){
+        return  alpha * Math.PI / 180;  //wikipedia alapjan
+    }
+
     @Override
     public double getKerulet() {
-        return 0;
+        return 2 * (this.getA() + this.getB()); //kerülete : 2(a + b)
     }
 
     @Override
     public double getTerulet() {
-        return 0;
+        return Math.abs(Math.sin(getRadian()));
+    }
+
+    @Override
+    public String toString() {
+        return String.format("Paralelogramma: a = %-10.3f  b = %-10.3f alpha =-10.3%f, %s", this.getA(), this.getB(), this.getAlpha(), super.toString());
     }
 }
