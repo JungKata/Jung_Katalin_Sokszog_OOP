@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Háromszög osztály:&#10;ToString">
+    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Háromszög osztály:&#10;ToString&#10;véletlen oldalak">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Haromszog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Sokszog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Sokszog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Teglalap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Teglalap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664888524237</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Háromszög osztály:&#10;ToString&#10;véletlen oldalak">
+      <created>1664891028931</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664891028931</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,6 +94,7 @@
     <MESSAGE value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e metodusok letrehozása" />
     <MESSAGE value="Háromszög osztály:&#10;- b- oldal c- oldal inicalizálása&#10;konstruktorok, getterek, setterek &#10;- kerulet terulet szerkesztheto-e függvény letrehozása" />
     <MESSAGE value="Háromszög osztály:&#10;ToString" />
-    <option name="LAST_COMMIT_MESSAGE" value="Háromszög osztály:&#10;ToString" />
+    <MESSAGE value="Háromszög osztály:&#10;ToString&#10;véletlen oldalak" />
+    <option name="LAST_COMMIT_MESSAGE" value="Háromszög osztály:&#10;ToString&#10;véletlen oldalak" />
   </component>
 </project>
