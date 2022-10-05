@@ -24,6 +24,7 @@ public class Sokszogek {
 
 
     }
+    // Osszead Terulet
 
 
 }
