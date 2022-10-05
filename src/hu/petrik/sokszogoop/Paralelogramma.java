@@ -11,6 +11,20 @@ public class Paralelogramma extends Sokszog {
         this.alpha = alpha;
     }
 
+    public Paralelogramma(){
+        super(getVeletlenOldal());
+        this.b = getVeletlenOldal();
+        this.alpha = getVeletlenSzog();
+    }
+
+    private static double getVeletlenOldal() {
+        return (Math.random() * 10) + 5;
+    }
+    private static double getVeletlenSzog()
+    {
+        return (Math.random()*180)+1;
+    }
+
     public double getB() {
         return b;
     }

@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29e74183-b1d1-4921-9e39-af29b8bb2c9d" name="Changes" comment="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás&#10;-terület számítás&#10;-tostring">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/sokszogoop/Paralelogramma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664993515988</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás&#10;-terület számítás&#10;-tostring">
+      <created>1664995256294</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664995256294</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +111,7 @@
     <MESSAGE value="Háromszög osztály:&#10;ToString&#10;véletlen oldalak" />
     <MESSAGE value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet" />
     <MESSAGE value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás" />
+    <MESSAGE value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás&#10;-terület számítás&#10;-tostring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paralelogramma &#10;- b oldal + alfa szög&#10;- konstruktor, getter , setter&#10;override kerulet terulet&#10;-kerület számítás&#10;-terület számítás&#10;-tostring" />
   </component>
 </project>
